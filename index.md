@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Last Updated:** October 15, 2026
-
 Welcome to **Siega - Pincer Movement** ("we," "our," or "us"). We are committed to protecting your privacy and ensuring a transparent user experience. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you download, access, or play **Siega - Pincer Movement** (the "Game").
 
 Please read this Privacy Policy carefully. By accessing or playing the Game, you consent to the collection and use of your information in accordance with this policy.
