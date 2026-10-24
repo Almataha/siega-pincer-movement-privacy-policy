@@ -11,9 +11,9 @@ Please read this Privacy Policy carefully. By accessing or playing the Game, you
 When you play **Siega - Pincer Movement**, we collect information to provide game functionality, facilitate authentication, analyze installation attribution, and deliver targeted advertising.
 
 ### A. Information Provided via Authentication Services
-We offer social and third-party sign-in options managed via **Google Firebase Authentication**. Depending on the login method you choose, we collect the following:
+We offer sign-in options managed via **Google Firebase Authentication**. Depending on the login method you choose, we collect the following:
 
-* **Facebook Login:** We request access only to your **Public Profile** (your public name, profile picture, and scoped Facebook User ID) and your **Facebook Friends List** (specifically friends who also play this Game)..
+* **Sign in with Google / Sign in with Apple:** User ID, display name, and email address (or Apple relay email).
  * **Guest / Anonymous Login:** A temporary, randomly generated Firebase User ID to maintain save data without personal identity.
 
 ### B. Automatically Collected Technical & Analytical Data
@@ -47,10 +47,6 @@ We partner with third-party service providers to deliver authentication, analyti
    * Purpose: User login, identity verification, and database storage.
    * [Google Privacy Policy](https://policies.google.com/privacy)
 
-2. **Meta / Facebook SDK:**
-   * Purpose: Facebook Login integration.
-   * [Meta Data Policy](https://www.facebook.com/policy.php)
-
 3. **AppsFlyer:**
    * Purpose: Mobile attribution, campaign measurement, and OneLink deep linking.
    * [AppsFlyer Privacy Policy](https://www.appsflyer.com/legal/services-privacy-policy/)
@@ -62,12 +58,20 @@ We partner with third-party service providers to deliver authentication, analyti
 5. **Unity Software Services:**
    * Purpose: Underlying core game engine and rendering runtime.
    * [Unity Privacy Policy](https://unity.com/legal/privacy-policy)
+     
+6. **Google Sign-In**
+   * Purpose: Account Authentication
+   * [Google Privacy Policy](https://policies.google.com/privacy)
+     
+7. **Apple Sign-In**
+   * Purpose: Account Authentication
+   * [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 
 ---
 
 ## 4. Data Retention & User Rights (Data Deletion)
 
-We retain your data only for as long as necessary to maintain your game account and satisfy legal obligations. You have complete control over your personal data and can request deletion at any time regardless of the authentication method used (**Guest, Facebook, Google, or Apple**).
+We retain your data only for as long as necessary to maintain your game account and satisfy legal obligations. You have complete control over your personal data and can request deletion at any time regardless of the authentication method used (**Guest, Google, or Apple**).
 
 ### A. How to Delete Your Data In-App
 1. Launch **Siega - Pincer Movement**.
@@ -76,7 +80,7 @@ We retain your data only for as long as necessary to maintain your game account 
 4. Confirm the prompt.
 
 * **What Gets Deleted:** Executing this action permanently deletes your player account, cloud saves, level progression, inventory, and linked Firebase User ID from our servers.
-* **Third-Party Auth Tokens:** Deleting your in-game account does not modify your primary Facebook account. You can revoke this Game's permissions anytime inside your Facebook Security Settings.
+* **Third-Party Auth Tokens:** Deleting your in-game account does not modify your primary Google, or Apple accounts. You can revoke this Game's permissions anytime inside your respective Google, or Apple Security Settings.
 
 ### B. Manual Deletion Requests
 If you cannot access the Game or have uninstalled it from your device, you can submit an account deletion request by emailing us at **contact@almataha.com** with the subject line *"Account Deletion Request"*.
@@ -91,11 +95,17 @@ If you cannot access the Game or have uninstalled it from your device, you can s
 
 ## 6. Security
 
-We use industry-standard encryption protocols (HTTPS/TLS) provided by our infrastructure partners (Google Firebase, Meta, AppLovin, and AppsFlyer) to secure data transmissions.
+We use industry-standard encryption protocols (HTTPS/TLS) provided by our infrastructure partners (Google Firebase, AppLovin, and AppsFlyer) to secure data transmissions.
 
 ---
 
-## 7. Contact Us
+## 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our technology, legal obligations, or third-party SDKs. Updates will be posted on this page with an updated "Last Updated" date.
+
+---
+
+## 8. Contact Us
 
 If you have questions about this Privacy Policy or wish to exercise your data privacy rights, please reach out:
 
